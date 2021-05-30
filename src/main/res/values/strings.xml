@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Favorite Scripture</string>
+    <string name="fav_book">Enter Book Name</string>
+    <string name="fav_chapter">Enter Chapter Number</string>
+    <string name="fav_verse">Enter Verse Number</string>
+    <string name="enter_scripture">Display</string>
+</resources>
